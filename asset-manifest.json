@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b51d1cbc.css",
-    "main.js": "/static/js/main.0ac64005.js",
+    "main.js": "/static/js/main.19133152.js",
     "static/js/787.71df535f.chunk.js": "/static/js/787.71df535f.chunk.js",
     "static/media/VIDEO-HORAIZONTAL-Curso-farmacología-cardiovascular.mp4": "/static/media/VIDEO-HORAIZONTAL-Curso-farmacología-cardiovascular.04aa4aeb398168ca9423.mp4",
     "static/media/img10.png": "/static/media/img10.9116acb3a1d16704680c.png",
@@ -55,11 +55,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.b51d1cbc.css.map": "/static/css/main.b51d1cbc.css.map",
-    "main.0ac64005.js.map": "/static/js/main.0ac64005.js.map",
+    "main.19133152.js.map": "/static/js/main.19133152.js.map",
     "787.71df535f.chunk.js.map": "/static/js/787.71df535f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b51d1cbc.css",
-    "static/js/main.0ac64005.js"
+    "static/js/main.19133152.js"
   ]
 }
